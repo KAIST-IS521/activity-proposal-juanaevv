@@ -1,5 +1,7 @@
-# Activity Proposal
+# Activity Proposal - juanaevv
 
-- Maximum 2 pages
-- Write in Hangul, but you can write in English if necessary
-- Use the proposal.tex
+[Activity Proposal](proposal.tex)
+
+- IDS server and attack client using Raw socket.
+
+- SYN flooding technique and server methods to defend it.
